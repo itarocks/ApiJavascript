@@ -37,6 +37,9 @@ header .container:before{
 	height: 100%;
 	margin: 0 auto;
 }
+.paciente-invalido {
+    background-color: blue;
+}
 
 section{
 	margin: 2em 0;
